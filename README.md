@@ -103,13 +103,3 @@ A deployed personal-finance data science application. Users can explore determin
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ryxn&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ryxn&theme=radical" alt="Aryan's GitHub Streak" />
-</p>
