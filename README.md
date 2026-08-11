@@ -29,15 +29,29 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 InsightFlow
+### 🤖 [AlgoPilot AI](https://algo-pilot-ai.vercel.app)
+
+A full-stack DSA analytics and interview-preparation platform that integrates live LeetCode statistics and GitHub profile data. It features a Gemini-powered AI Coach with code review, progressive hints, and realistic interviewer modes. The application is containerized with Docker, tested through GitHub Actions CI, and deployed using Vercel, Render, and Neon PostgreSQL.
+
+**[Live Demo](https://algo-pilot-ai.vercel.app) • [Source Code](https://github.com/4ryxn/AlgoPilot-AI)**
+
+`React` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Google Gemini` `Docker` `GitHub Actions` `Vercel` `Render`
+
+### 🧠 [InsightFlow](https://insightflow-frontend-iw26.onrender.com)
+
 A full-stack AI application that lets users upload PDF, DOCX, and TXT documents, process native or scanned content, and ask questions answered with filename and page citations. It also connects to a read-only PostgreSQL database, converts natural-language questions into validated SQL, shows the SQL for explicit confirmation, and returns tables, CSV files, and charts.
+
+**[Live Demo](https://insightflow-frontend-iw26.onrender.com) • [Source Code](https://github.com/4ryxn/insightflow)**
 
 `React` `TypeScript` `FastAPI` `Async SQLAlchemy` `PostgreSQL` `pgvector` `Google Gemini` `Docker` `GitHub Actions` `Render`
 
-### 💰 FinSense Analytics
+### 💰 [FinSense Analytics](https://finsense-analytics-4ryxn.streamlit.app)
+
 A deployed personal-finance data science application. Users can explore deterministic demo data or upload a bank-style CSV through a guided mapping and validation workflow. The app cleans and normalizes transactions, generates interactive EDA and statistical insights, compares a seasonal benchmark with regression models using chronological validation, detects unusual expenses with Isolation Forest, calculates a transparent Financial Health Score, and evaluates budget scenarios. Tested with 29 automated tests and publicly deployed.
 
-`Streamlit` `Pandas` `scikit-learn` `Plotly` `pytest`
+**[Live Demo](https://finsense-analytics-4ryxn.streamlit.app) • [Source Code](https://github.com/4ryxn/finsense-analytics)**
+
+`Python` `Streamlit` `Pandas` `NumPy` `scikit-learn` `Plotly` `pytest`
 
 ---
 
