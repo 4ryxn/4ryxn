@@ -91,6 +91,7 @@ A deployed personal-finance data science application. Users can explore determin
 **Database**
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
 </p>
 
 **AI & Document Processing**
